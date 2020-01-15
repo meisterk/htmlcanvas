@@ -1,0 +1,10 @@
+body {
+    background-color: greenyellow;
+}
+
+canvas {
+    width: 200px;
+    height: 200px;
+    background-color: honeydew;
+}
+
